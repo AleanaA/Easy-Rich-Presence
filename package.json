@@ -1,0 +1,11 @@
+{
+  "name": "easy-rich-presence",
+  "version": "1.0.0",
+  "description": "Gives you easy access to setup discord rich presence!",
+  "main": "main.js",
+  "repository": "https://github.com/aleanaa/easy-rich-presence",
+  "author": "Aleana",
+  "dependencies": {
+    "discord-rich-presence": "0.0.6"
+  }
+}
