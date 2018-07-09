@@ -41,3 +41,6 @@ Once you've saved your changes, replace `largeimage` with whatever you named the
 <br/>
 If you'd like a small image in the bottom corner of the large image, find another image that is above a 512x512 resolution, upload it to your assets area in your application,  set it as a small image, and give it a name, then save your changes.<br/>
 Once you've saved your changes, replace `smallimage` with whatever you named the image. Afterwards, you can set `Small Image Hover Text` to whatever you'd like, or to disable it, add `//` to the start of the line.
+
+## Support
+[There's a support server that you can find here if you have any issues, or just need help.](https://discord.gg/eJhG4Tq)
