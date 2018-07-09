@@ -1,7 +1,7 @@
-const client = require('discord-rich-presence')('465816900186800138');
+const client = require('discord-rich-presence')('id');
 client.updatePresence({
-  details: "What am I doing?",
-  state: "Why am I doing it?",
-  largeImageKey: 'thinking',
+  details: "First line",
+  state: "Second line",
+  largeImageKey: 'image',
   instance: true,
 });
