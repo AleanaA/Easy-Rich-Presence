@@ -1,0 +1,2 @@
+
+Easy Discord Rich Presence!
