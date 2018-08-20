@@ -6,6 +6,6 @@
   "repository": "https://github.com/aleanaa/easy-rich-presence",
   "author": "Aleana",
   "dependencies": {
-    "discord-rich-presence": "0.0.6"
+    "discord-rich-presence": "0.0.7"
   }
 }
